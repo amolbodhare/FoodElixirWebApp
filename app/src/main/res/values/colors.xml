@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorWhiteCream">#FAFAFA</color>
+    <color name="colorMumbai">#FCB800</color>
+    <color name="colorApp">#85F499</color>
+    <color name="textprofilecolor">#00E15A</color>
+
+
+</resources>

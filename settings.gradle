@@ -1,0 +1,2 @@
+rootProject.name='Foodelixir'
+include ':app'
